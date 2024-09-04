@@ -1,0 +1,276 @@
+{
+  "states": [
+    {
+      "id": "1",
+      "label": "Turkey"
+    },
+    {
+      "id": "2",
+      "label": "Azerbeijan"
+    },
+    {
+      "id": "3",
+      "label": "East Turkistan"
+    }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "label": "English"
+    },
+    {
+      "id": "2",
+      "label": "Germany"
+    },
+    {
+      "id": "3",
+      "label": "Spanish"
+    }
+  ],
+  "genders": [
+    {
+      "id": "1",
+      "label": "Male"
+    },
+    {
+      "id": "2",
+      "label": "Female"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "label": "Productive"
+    },
+    {
+      "id": "2",
+      "label": "Creative"
+    },
+    {
+      "id": "3",
+      "label": "Agile"
+    },
+    {
+      "id": "4",
+      "label": "Problem solver"
+    }
+  ],
+  "users": [
+    {
+      "name": "Alexander",
+      "email": "james@gmail.com",
+      "state": [
+        "1",
+        "2"
+      ],
+      "formDateAndTime": [
+        "Thu Jan 18 2024 00:36:58 GMT+0300 (GMT+03:00)",
+        "Thu Jan 18 2024 00:36:58 GMT+0300 (GMT+03:00)"
+      ],
+      "registrationDateAndTime": "Thu Jan 18 2024 00:36:58 GMT+0300 (GMT+03:00)",
+      "formRangeSalary": [
+        0,
+        2000
+      ],
+      "languages": [
+        "1",
+        "2"
+      ],
+      "gender": "1",
+      "skills": [
+        "2"
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "11111"
+        },
+        {
+          "name": "22222"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "Robert@gmail.com",
+      "formDateAndTime": [
+        "Wed Aug 09 2023 00:00:00 GMT+0330 (Iran Standard Time)",
+        "Thu Jan 18 2024 01:20:23 GMT+0330 (Iran Standard Time)"
+      ],
+      "name": "Robert",
+      "gender": "2",
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
+      "registrationDateAndTime": "Wed Jan 07 1981 04:40:23 GMT+0330 (Iran Standard Time)",
+      "formRangeSalary": [
+        67,
+        87
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "state": [
+        "3"
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "fsdfdsf"
+        },
+        {
+          "name": "sdfsfsf"
+        },
+        {
+          "name": "sfdsfsf"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "john@gmail.com",
+      "formDateAndTime": [
+        "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
+        "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)"
+      ],
+      "name": "John",
+      "gender": "1",
+      "languages": [
+        "1",
+        "2"
+      ],
+      "registrationDateAndTime": "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
+      "formRangeSalary": [
+        0,
+        2000
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "state": [
+        "1"
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "sdsd"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Muhammed Orhan özçelik",
+      "email": "orhanozcelik3437@gmail.com",
+      "state": [
+        "1"
+      ],
+      "languages": [
+        "1",
+        "3"
+      ],
+      "gender": "1",
+      "skills": [
+        "2",
+        "3"
+      ],
+      "registrationDateAndTime": "2024-09-04T09:52:24.497Z",
+      "formDateAndTime": [
+        "2024-09-04T09:52:24.497Z",
+        "2024-09-04T09:52:24.497Z"
+      ],
+      "formRangeSalary": [
+        0,
+        37
+      ],
+      "variant": "create",
+      "isTeacher": false,
+      "id": 4
+    },
+    {
+      "name": "Test1",
+      "email": "test1@test.com",
+      "state": [
+        "1"
+      ],
+      "languages": [],
+      "gender": "1",
+      "skills": [
+        "1",
+        "2"
+      ],
+      "registrationDateAndTime": "2024-09-04T10:40:34.580Z",
+      "formDateAndTime": [
+        "2024-09-04T10:40:34.580Z",
+        "2024-09-04T10:40:34.580Z"
+      ],
+      "formRangeSalary": [
+        0,
+        2000
+      ],
+      "variant": "create",
+      "isTeacher": false,
+      "id": 5
+    },
+    {
+      "name": "Test 2",
+      "email": "test2@test.com",
+      "state": [
+        "1"
+      ],
+      "languages": [
+        "3",
+        "2"
+      ],
+      "gender": "1",
+      "skills": [
+        "2",
+        "4"
+      ],
+      "registrationDateAndTime": "2024-09-04T10:52:29.214Z",
+      "formDateAndTime": [
+        "2024-09-04T10:52:29.214Z",
+        "2024-09-04T10:52:29.214Z"
+      ],
+      "formRangeSalary": [
+        0,
+        2000
+      ],
+      "variant": "create",
+      "isTeacher": false,
+      "id": 6
+    },
+    {
+      "name": "Test 3",
+      "email": "test3@test.com",
+      "state": [
+        "3",
+        "2"
+      ],
+      "formDateAndTime": [
+        "Wed Sep 04 2024 14:49:57 GMT+0300 (GMT+03:00)",
+        "Wed Sep 04 2024 14:49:57 GMT+0300 (GMT+03:00)"
+      ],
+      "registrationDateAndTime": "Wed Sep 04 2024 14:49:57 GMT+0300 (GMT+03:00)",
+      "formRangeSalary": [
+        0,
+        2000
+      ],
+      "languages": [],
+      "gender": "1",
+      "skills": [
+        "2"
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "11111"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
